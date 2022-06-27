@@ -35,8 +35,8 @@ import deepdespeckling
 
 
 * [Emanuele Dalsasso](https://perso.telecom-paristech.fr/dalsasso/) (Researcher at Telecom Paris)
-* [Youcef Kemiche](https://engineeringteam.hi-paris.fr/about-us-2/) (Hi! PARIS engineer)
-* [Pierre Blanchard](https://engineeringteam.hi-paris.fr/about-us-2/) (Hi! PARIS engineer)
+* [Youcef Kemiche](https://www.linkedin.com/in/youcef-kemiche-3095b9174/) (Hi! PARIS machine-learning engineer)
+* [Pierre Blanchard](https://www.linkedin.com/in/pierre-blanchard-28245462/) (Hi! PARIS machine-learning engineer)
 
 
 # Use cases
@@ -86,7 +86,7 @@ fixed = True "(it will crop a 256*256 image from the position of your click)" or
 
 despeckle_from_crop_st(image_path, destination_directory, model_weights_path, fixed=False)
 ```
-* The cropping tool:
+* The cropping tool (use the touch "q" to validate your selection)
 
 <p align="center">
   <img src="img/crop/crop_example.png" width="66%" class="center">
